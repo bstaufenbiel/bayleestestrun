@@ -33,7 +33,7 @@
 title: Midwives as Expert Witnesses 
 subtitle: Female anatomy in the Old Bailey Proccedings
 description: >- # this means to ignore newlines until "baseurl:"
-  Midwives in England testifying in criminal court cases between 1674 and 1789..
+  Midwives in England testifying in criminal court cases between 1674 and 1789.
 author: Baylee Staufenbiel
 email: bstaufenbiel@fsu.edu
 avatar: avatar1.jpeg
@@ -52,5 +52,5 @@ github_url: http://github.com/bstaufenbiel
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-remote_theme: bstaufenbiel/bstaufenbiel
+theme: jekyll-theme-prologue
 collections: [sections]
