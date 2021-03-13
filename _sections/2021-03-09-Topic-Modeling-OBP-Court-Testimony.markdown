@@ -11,4 +11,4 @@ Instead, I took this opportunity to use Voyant-Tools as it does a similar form o
 
 Overall, there are benefits to topic modeling, but as with everything, we need to make sure that we are aware of the data that we are entering. Topic modeling will not help if we use it to make overgeneralized conclusions on little information. 
 
-![](Voyant_Visualization.png)
+<iframe src="https://drive.google.com/file/d/10-NPiyCAn0NU7azldrCVr4eTQCUnDpJC/preview" width="800" height="386"></iframe>
